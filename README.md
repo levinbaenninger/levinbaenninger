@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @levinbaenninger
-- 🌱 I’m currently learning to build websites
+- 🌱 I’m currently in training at Bühler Group
 - 📫 How to reach me: <l.baenninger@icloud.com>
