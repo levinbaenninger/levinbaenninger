@@ -8,7 +8,7 @@
 
 ```javascript
 const levinbaenninger = {
-  code: [HTML, CSS, JavaScript, Python],
+  code: [HTML, CSS, JavaScript],
   workplace: {
     company: "Bühler AG",
     role: "Apprentice"
