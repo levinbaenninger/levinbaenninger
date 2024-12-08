@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning **React and Adonis.js**<br>👨‍💻 All of my projects are available at [levinbaenninger.dev](levinbaenninger.dev)<br>📫 How to reach me **me@levinbaenninger.dev**<br>📄 Know about my experiences [cv.levinbaenninger.dev](cv.levinbaenninger.dev)
+🌱 I’m currently learning **React and Adonis.js**<br>👨‍💻 All of my projects are available at [levinbaenninger.dev](https://levinbaenninger.dev)<br>📫 How to reach me **me@levinbaenninger.dev**<br>📄 Know about my experiences [cv.levinbaenninger.dev](https://cv.levinbaenninger.dev)
 
 
 ## 🌐 Socials:
