@@ -1,5 +1,5 @@
 # 💫 About Me
-🔭 I’m currently working on [Meetique]((https://github.com/levinbaenninger/meetique))<br>🌱 I’m currently learning **Next.js**<br>👨‍💻 All of my projects are available at [levinbaenninger.dev](https://levinbaenninger.dev)<br>📫 How to reach me **me@levinbaenninger.dev**<br>
+🔭 I’m currently working on [Meetique]((https://github.com/levinbaenninger/meetique))<br>🌱 I’m currently learning **Next.js**<br>👨‍💻 All of my projects are available at [levinbaenninger.dev](https://levinbaenninger.dev)<br>📫 How to reach me me@levinbaenninger.dev<br>
 
 # 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/levinbaenninger) [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/LevinBaenninger) [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@@levinbaenninger) 
